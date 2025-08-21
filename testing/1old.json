@@ -1,0 +1,644 @@
+{
+  "_id": "D9093128995",
+  "isSlabBasedPricing": false,
+  "combinedDealDescription": "",
+  "url": "bikaji-rs5-funkeen-corn-puff-cheese-n-herbs-18-g",
+  "agentPrice": 5,
+  "agentDiscount": 0,
+  "gpayPrice": 5,
+  "gpayDiscount": 0,
+  "cscPrice": 5,
+  "cscDiscount": 0,
+  "b2bDiscount": 96.6,
+  "ensureUniqueProducts": "5a62d19be8855873fa36a7053d8d8919",
+  "active": true,
+  "invoice_seperately": false,
+  "classification": "B2C",
+  "stickyOrder": false,
+  "shipsIn": "48-72 Hrs",
+  "b2bPrice": 4.83,
+  "b2bEnabled": true,
+  "status": "Publish",
+  "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G",
+  "__v": 310,
+  "display": false,
+  "acceptOrder": false,
+  "productMrpChanged": false,
+  "soldInfo": {
+    "WMF28": {
+      "lastPublished": "2023-03-31T10:35:06.000Z",
+      "lastOrderedOn": "2023-07-07T12:51:52.000Z",
+      "quantity": 3840
+    },
+    "WMF40": {
+      "lastPublished": "2022-06-17T07:22:11.000Z",
+      "lastOrderedOn": "2023-02-27T10:38:05.000Z",
+      "quantity": 125040
+    }
+  },
+  "isBackendBillingEnabled": true,
+  "HSNNumber": "21069099",
+  "soldQuantity": 0,
+  "soldQuantitySync": "2023-08-31T21:30:23.706Z",
+  "memberPrice": null,
+  "discount": 3.4,
+  "displayDealType": "REGULAR",
+  "overrideMinQty": false,
+  "modifiedBy": "67b585e8c8aecf1005d923ec",
+  "b2cDiscountNew": 0,
+  "b2cPriceNew": 5,
+  "linkedLPDealId": "",
+  "description": "",
+  "isExclusiveType": false,
+  "isMasterForLinkedLPDeal": false,
+  "pickStkFrmDefaultwhId": false,
+  "printName": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G",
+  "shortDescription": "",
+  "showPrdAtInvoice": false,
+  "isDefaultDisplaySellerDeal": false,
+  "serviceablePartners": [],
+  "kcRuleIds": [],
+  "isNegativeVC": false,
+  "isPositiveVC": false,
+  "isForecastDeal": true,
+  "KQAPickFromDeal": true,
+  "isSfDeal": false,
+  "hasSfStock": false,
+  "sfConfig": {
+    "isEnable": false
+  },
+  "visibilityByWh": [
+    {
+      "name": "Bengaluru Warehouse - WMF28",
+      "whId": "WMF28",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse - WMF68",
+      "whId": "WMF68",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse Unit 2 - WMF34",
+      "whId": "WMF34",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse - WMF20",
+      "whId": "WMF20",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad Warehouse - WMF67",
+      "whId": "WMF67",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse (New BPCL)-WMF65",
+      "whId": "WMF65",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse (Grocery)-WMF44",
+      "whId": "WMF44",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad Warehouse (BPCL)-WMF61",
+      "whId": "WMF61",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse (BPCL)-WMF41",
+      "whId": "WMF41",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse (Electronics)-WMF35",
+      "whId": "WMF35",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse (Grocery)-WMF36",
+      "whId": "WMF36",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse (Brand SF)-WMF40",
+      "whId": "WMF40",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse (BPCL)-WMF60",
+      "whId": "WMF60",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad Warehouse (Gpay)-WMF59",
+      "whId": "WMF59",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad  Warehouse (Grocery)-WMF38",
+      "whId": "WMF38",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse (Swiggy)-WMF55",
+      "whId": "WMF55",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse (Grocery)-WMF39",
+      "whId": "WMF39",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "WMF63 - Bengaluru Warehouse (New BPCL)",
+      "whId": "WMF63",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Indore Warehouse - WMF66",
+      "whId": "WMF66",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bangalore Warehouse - WMF53",
+      "whId": "WMF53",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bhiwandi Warehouse - WMF52",
+      "whId": "WMF52",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Bengaluru Warehouse (Swiggy)-WMF56",
+      "whId": "WMF56",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad Warehouse (Swiggy)-WMF54",
+      "whId": "WMF54",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad Warehouse - WMF29",
+      "whId": "WMF29",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    },
+    {
+      "name": "Hyderabad Warehouse (Ola)-WMF43",
+      "whId": "WMF43",
+      "visibility": "Auto",
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "visibleByMinQty": false,
+      "status": "Unpublish",
+      "forecastStatus": "Unpublish"
+    }
+  ],
+  "is_active": true,
+  "inventory": [],
+  "isValueBrand": true,
+  "priceSlabs": [],
+  "classClassifications": [
+    {
+      "name": "King",
+      "id": "CLC1",
+      "whId": "WMF20",
+      "_id": "63e61457c0cf921f12bcdc7b",
+      "isDefault": false
+    },
+    {
+      "name": "King",
+      "id": "CLC1",
+      "whId": "WMF28",
+      "_id": "63e61457c0cf921f12bcdc7a",
+      "isDefault": false
+    },
+    {
+      "name": "King",
+      "id": "CLC1",
+      "whId": "WMF68",
+      "_id": "63e61457c0cf921f12bcdc79",
+      "isDefault": false
+    },
+    {
+      "name": "King",
+      "id": "CLC1",
+      "whId": "WMF60",
+      "_id": "63e61457c0cf921f12bcdc78",
+      "isDefault": false
+    },
+    {
+      "name": "King",
+      "id": "CLC1",
+      "whId": "WMF65",
+      "_id": "63e61457c0cf921f12bcdc77",
+      "isDefault": false
+    },
+    {
+      "name": "King",
+      "id": "CLC1",
+      "whId": "",
+      "_id": "63e61457c0cf921f12bcdc76",
+      "isDefault": true
+    }
+  ],
+  "classGroup": {
+    "name": "FMCG",
+    "id": "CLG1"
+  },
+  "discountMargin": 3.4,
+  "recomendedDeals": [],
+  "whatsYourPriceConfig": {
+    "digits": 0,
+    "amount": 0,
+    "contestFee": 0,
+    "orderCancellationTat": 2400,
+    "quantity": 1
+  },
+  "isKCStoreEnabled": false,
+  "isGroupBuyingEnabled": false,
+  "iswhatsYourPriceEnabled": false,
+  "isTaxUpdated": true,
+  "isSkWarehouse": true,
+  "whIds": [
+    "WMF28"
+  ],
+  "exclusivetype": [],
+  "specialDeal": {
+    "desktopBannerImages": [],
+    "mobileBannerImages": [],
+    "highlights": []
+  },
+  "lastUpdated": "2025-08-06T13:00:09.965Z",
+  "createdAt": "2022-06-17T06:35:43.438Z",
+  "highlights": [],
+  "deleted": false,
+  "brandNew": [
+    "BR20652"
+  ],
+  "brand": [
+    "BR20652"
+  ],
+  "categoryNew": [
+    "C6211"
+  ],
+  "category": [
+    "C6211"
+  ],
+  "images": [
+    "08129221354428491845"
+  ],
+  "additionalSchemeDiscount": [],
+  "allowReserveOrder": false,
+  "product": [
+    {
+      "defaultWhId": "",
+      "active": true,
+      "invoice_seperately": false,
+      "mrp": 5,
+      "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+      "quantity": 1,
+      "id": "PR98387",
+      "_id": "689351980ac6f957529400b3",
+      "preorderWhList": [],
+      "classClassifications": [
+        {
+          "whId": "WMF65",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b530",
+          "isDefault": false
+        },
+        {
+          "whId": "WMF20",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b52f",
+          "isDefault": false
+        },
+        {
+          "whId": "WMF28",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b52e",
+          "isDefault": false
+        },
+        {
+          "whId": "WMF60",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b52d",
+          "isDefault": false
+        },
+        {
+          "whId": "WMF68",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b52c",
+          "isDefault": false
+        },
+        {
+          "whId": "WMF36",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b52b",
+          "isDefault": false
+        },
+        {
+          "whId": "",
+          "id": "CLC1",
+          "name": "King",
+          "_id": "63e5f86a108f1e51a194b52a",
+          "isDefault": true
+        }
+      ],
+      "classGroup": {
+        "id": "CLG1",
+        "name": "FMCG"
+      },
+      "isSkWarehouse": true,
+      "isDefaultHSN": true,
+      "spMargin": 100,
+      "csa": [
+        {
+          "attributeId": "5f15a98e35dee51c568b7c8c",
+          "value": "18g",
+          "name": "Weight",
+          "_id": "64e312999a17fd40e2cb49b5"
+        },
+        {
+          "attributeId": "5f16712d1e1a231acbc7015d",
+          "value": "Cheese N Herbs",
+          "name": "Variant",
+          "_id": "64e312999a17fd40e2cb49b4"
+        },
+        {
+          "attributeId": "5f16712d1e1a231acbc7015e",
+          "_id": "64e312999a17fd40e2cb49b3"
+        }
+      ],
+      "tax": 0,
+      "shelfLife": 0,
+      "originCountry": "India",
+      "brand": [
+        "BR20652"
+      ],
+      "category": [
+        "C6211"
+      ],
+      "dealer_price": 0,
+      "description": "<p>Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 20g</p>\n<p>Indulge in the cheesilicious flavour of Bikaji&rsquo;s Corn Puff.</p>\n<p>Loaded with tangy herbs, this halka fulka snack is perfect for night-time nibbles or to satisfy those midday cravings.</p>\n<p>The crunchy, tangy, spicy and full of flavour snack with the goodness of corn will make you crave more.</p>",
+      "shortDescription": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+      "images": [
+        "00281463597899660690"
+      ]
+    }
+  ],
+  "isContentValidated": true,
+  "barcodes": [],
+  "sourcingPartner": "MPS0",
+  "keywords": [
+    "Bikaji",
+    "Namkeen",
+    "PR98387",
+    "D9093128995",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 20g",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+    "Other Namkeen",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G"
+  ],
+  "maxB2CPeriodType": "Days",
+  "maxB2BPeriodType": "Days",
+  "isOwnedByThirdparty": false,
+  "dealCreatorType": "SK",
+  "subscribedSellersIds": [
+    "SEL1238",
+    "SEL1386"
+  ],
+  "unsubscribedSellersIds": [],
+  "unsubscribedSellers": [],
+  "reviewHistory": [],
+  "reviewStatus": "APPROVED",
+  "barcodeApplicable": true,
+  "allowSchemesforSellers": true,
+  "dontAllowSubscription": false,
+  "minimumSellingPrice": 1,
+  "transferPrice": {
+    "priceType": "Rs"
+  },
+  "kingsaleWarehouseWise": [],
+  "tierData": [],
+  "mrp": 5,
+  "incrementQuantity": 1,
+  "minimumQuantity": 1,
+  "manualUnpublish": false,
+  "dealMasterAssortment": true,
+  "isRealTime": true,
+  "isGrouped": false,
+  "isSpecialDeal": false,
+  "delivery_chalan": false,
+  "allowedUnitTypes": [],
+  "sellInLooseQty": false,
+  "dealType": "Normal",
+  "linkedLPMasterDealIds": [],
+  "groupedDeals": {
+    "_id": "633a88063802c00d168dd317",
+    "category": "C6211",
+    "csa": "Weight",
+    "__v": 0,
+    "lastUpdated": "2022-10-03T06:58:14.749Z",
+    "createdAt": "2022-10-03T06:58:14.749Z",
+    "deleted": false,
+    "deals": [
+      "D0379923817"
+    ],
+    "dealcsa": [
+      {
+        "_id": "D0379923817",
+        "csaValue": "18g"
+      },
+      {
+        "_id": "D9093128995",
+        "csaValue": "18g"
+      }
+    ],
+    "_deals": [
+      {
+        "_id": "D0379923817",
+        "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g (MD) (IA)",
+        "category": [
+          "C6211"
+        ]
+      }
+    ]
+  },
+  "_brand": [
+    {
+      "_id": "BR20652",
+      "classification": "B2B",
+      "name": "Bikaji",
+      "isValueBrand": true
+    }
+  ],
+  "_sourcingPartner": {
+    "_id": "MPS0",
+    "name": "StoreKing"
+  },
+  "_category": [
+    {
+      "_id": "C6211",
+      "classification": "B2B",
+      "name": "Other Namkeen",
+      "parent": "C6809",
+      "attributes": [
+        {
+          "mandatory": false,
+          "name": "Weight",
+          "type": "Text",
+          "_id": "5f15a98e35dee51c568b7c8c",
+          "predefined": true
+        },
+        {
+          "mandatory": false,
+          "name": "Pack Size",
+          "type": "Text",
+          "_id": "5f16712d1e1a231acbc7015e",
+          "predefined": false
+        },
+        {
+          "mandatory": false,
+          "name": "Variant",
+          "type": "Text",
+          "_id": "5f16712d1e1a231acbc7015d",
+          "predefined": false
+        }
+      ]
+    }
+  ]
+}

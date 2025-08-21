@@ -1,0 +1,301 @@
+{
+  "keywords": [
+    "Kiran Gold",
+    "Basmati Rice",
+    "PR61257",
+    "D0179414030",
+    "Kiran Gold Raw Rice, 10kg (MD) (IA) 5 testing",
+    "Raw Rice"
+  ],
+  "brand": ["BR20472"],
+  "_brand": [
+    { "_id": "BR20472", "classification": "B2B", "name": "Kiran Gold" }
+  ],
+  "brandNew": ["BR20472"],
+  "category": ["C7053"],
+  "_category": [
+    {
+      "_id": "C7053",
+      "classification": "B2C and B2B",
+      "name": "Raw Rice",
+      "maxB2BQuantity": 30,
+      "maxB2BPeriod": 30,
+      "maxB2CPeriod": 30,
+      "maxB2CQuantity": 30,
+      "attributes": [
+        {
+          "mandatory": false,
+          "name": "Pack Size",
+          "type": "Text",
+          "_id": "6178f2adea7b57644dcffba3",
+          "predefined": false
+        },
+        {
+          "mandatory": false,
+          "name": "Weight",
+          "type": "Text",
+          "_id": "6178f2adea7b57644dcffba2",
+          "predefined": true
+        },
+        {
+          "mandatory": false,
+          "name": "Variant",
+          "type": "Text",
+          "_id": "647d7242ee450530ab5fc00d",
+          "predefined": false
+        }
+      ]
+    }
+  ],
+  "categoryNew": ["C7053"],
+  "b2bEnabled": true,
+  "status": "Publish",
+  "product": [
+    {
+      "invoice_seperately": false,
+      "fullDescription": "Kiran Gold Raw Rice, 10kg (MD) (IA)",
+      "shortDescription": "Kiran Gold Raw Rice, 10kg (MD) (IA)",
+      "dealer_price": 0,
+      "mrp": 650,
+      "name": "Kiran Gold Raw Rice, 10kg (MD) (IA)",
+      "visibilityByWh": [],
+      "delivery_chalan": false,
+      "brand": ["BR20472"],
+      "category": ["C7053"],
+      "highlights": ["Kiran Gold Raw Rice, 10kg (MD) (IA)"],
+      "images": [],
+      "originCountry": "India",
+      "quantity": 1,
+      "id": "PR61257",
+      "spMargin": 100,
+      "isDefaultHSN": true
+    }
+  ],
+  "showPrdAtInvoice": false,
+  "groupedDeals": {
+    "_id": "",
+    "category": "",
+    "csa": "",
+    "deals": [],
+    "_deals": []
+  },
+  "memberPrice": null,
+  "sourcingPartner": "MPS0",
+  "highlights": [],
+  "specialDeal": {},
+  "overrideMinQty": false,
+  "pickStkFrmDefaultwhId": false,
+  "allowSchemesforSellers": true,
+  "maxB2CPeriodType": "Days",
+  "maxB2BPeriodType": "Days",
+  "is_active": true,
+  "tierData": [],
+  "isExclusiveType": false,
+  "exclusivetype": [],
+  "_sourcingPartner": { "_id": "MPS0", "name": "StoreKing" },
+  "delivery_chalan": false,
+  "name": "Kiran Gold Raw Rice, 10kg (MD) (IA) 5 testing",
+  "description": "",
+  "shortDescription": "",
+  "images": [],
+  "printName": "Kiran Gold Raw Rice, 10kg (MD) (IA) 5 testing",
+  "visibilityByWh": [
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF28"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF68"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF34"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF20"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF67"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF65"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF44"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF61"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF41"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF35"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF36"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF40"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF60"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF59"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF38"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF55"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF39"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF63"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF66"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF53"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF52"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF56"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF54"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF29"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF43"
+    }
+  ],
+  "_tempHighlights": [],
+  "_tempShortDescription": "",
+  "b2bPrice": 600,
+  "discount": 92.31,
+  "shipsIn": "24-48 Hrs",
+  "serviceablePartners": [],
+  "displayDealType": "loose",
+  "cscPrice": 650,
+  "cscDiscount": 0,
+  "gpayPrice": 650,
+  "gpayDiscount": 0,
+  "agentDiscount": 7.69,
+  "agentPrice": 600.015,
+  "b2cPriceNew": 600.02,
+  "b2cDiscountNew": null,
+  "recomendedDeals": [],
+  "classification": "B2C",
+  "whIds": ["WMF28"],
+  "sellInLooseQty": false,
+  "isMasterForLinkedLPDeal": true,
+  "linkedLPDealId": "D3232174988",
+  "allowedUnitTypes": []
+}

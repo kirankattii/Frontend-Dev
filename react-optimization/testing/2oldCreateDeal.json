@@ -1,0 +1,281 @@
+{
+    "keywords": [],
+    "brand": [
+        "BR11183"
+    ],
+    "_brand": [
+        {
+            "_id": "BR11183",
+            "classification": "B2B",
+            "name": "Nandini"
+        }
+    ],
+    "brandNew": [
+        "BR11183"
+    ],
+    "category": [
+        "C7426"
+    ],
+    "_category": [
+        {
+            "_id": "C7426",
+            "classification": "B2B",
+            "name": "Mysore Pak",
+            "maxB2BQuantity": 30,
+            "maxB2BPeriod": 1,
+            "maxB2CPeriod": null,
+            "maxB2CQuantity": null,
+            "attributes": [
+                {
+                    "mandatory": false,
+                    "name": "Variant",
+                    "type": "Text",
+                    "_id": "64b4d3ee9400da605f2c0af1",
+                    "predefined": false
+                },
+                {
+                    "mandatory": false,
+                    "name": "Weight",
+                    "type": "Text",
+                    "_id": "64b4d3ee9400da605f2c0af0",
+                    "predefined": true
+                }
+            ]
+        }
+    ],
+    "categoryNew": [
+        "C7426"
+    ],
+    "b2bEnabled": true,
+    "status": "Draft",
+    "product": [
+        {
+            "invoice_seperately": false,
+            "fullDescription": "<p>Nandini Mysore Pak, 100g</p>\n<p>Nandini Mysore Pak prepared of ghee and tiny more concentration in mixing gram flour syrup and ghee. It is a wealthy, tasty and hygienically prepared and is a wonderful choice to your dears to make them better-off on festivals, birthdays and on every occasion.</p>\n<p>&nbsp;</p>",
+            "shortDescription": "Nandini Mysore Pak, 100g",
+            "dealer_price": 0,
+            "mrp": 60,
+            "name": "Nandini Mysore Pak, 100g",
+            "visibilityByWh": [],
+            "delivery_chalan": false,
+            "brand": [
+                "BR11183"
+            ],
+            "category": [
+                "C7426"
+            ],
+            "highlights": [
+                "Nandini Mysore Pak is Karnataka's traditional sweet and the most favorite choice of all. The appetizing aroma and taste of pure ghee are used"
+            ],
+            "images": [
+                "78986856533242191828",
+                "93275747535261301139"
+            ],
+            "originCountry": "India",
+            "quantity": 1,
+            "id": "PR107493",
+            "spMargin": 100,
+            "isDefaultHSN": true
+        }
+    ],
+    "showPrdAtInvoice": false,
+    "groupedDeals": {
+        "category": "",
+        "csa": "",
+        "deals": [],
+        "_deals": []
+    },
+    "memberPrice": null,
+    "sourcingPartner": "MPS0",
+    "highlights": [],
+    "specialDeal": {},
+    "overrideMinQty": false,
+    "pickStkFrmDefaultwhId": false,
+    "allowSchemesforSellers": true,
+    "maxB2CPeriodType": "Days",
+    "maxB2BPeriodType": "Days",
+    "is_active": true,
+    "tierData": [],
+    "isExclusiveType": false,
+    "exclusivetype": [],
+    "_sourcingPartner": {
+        "_id": "MPS0",
+        "name": "StoreKing"
+    },
+    "delivery_chalan": false,
+    "name": "Nandini Mysore Pak, 100g new",
+    "description": "",
+    "shortDescription": "",
+    "images": [],
+    "printName": "Nandini Mysore Pak, 100g",
+    "visibilityByWh": [
+        {
+            "name": "Bengaluru Warehouse - WMF28",
+            "isChecked": false,
+            "visibility": "Auto",
+            "status": "Unpublish",
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse - WMF68",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse Unit 2 - WMF34",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse - WMF20",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad Warehouse - WMF67",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse (New BPCL)-WMF65",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse (Grocery)-WMF44",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad Warehouse (BPCL)-WMF61",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse (BPCL)-WMF41",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse (Electronics)-WMF35",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse (Grocery)-WMF36",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse (Brand SF)-WMF40",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse (BPCL)-WMF60",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad Warehouse (Gpay)-WMF59",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad  Warehouse (Grocery)-WMF38",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse (Swiggy)-WMF55",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse (Grocery)-WMF39",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "WMF63 - Bengaluru Warehouse (New BPCL)",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Indore Warehouse - WMF66",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bangalore Warehouse - WMF53",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bhiwandi Warehouse - WMF52",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Bengaluru Warehouse (Swiggy)-WMF56",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad Warehouse (Swiggy)-WMF54",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad Warehouse - WMF29",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        },
+        {
+            "name": "Hyderabad Warehouse (Ola)-WMF43",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false
+        }
+    ],
+    "_tempHighlights": [
+        "Nandini Mysore Pak is Karnataka's traditional sweet and the most favorite choice of all. The appetizing aroma and taste of pure ghee are used"
+    ],
+    "_tempShortDescription": "Nandini Mysore Pak, 100g",
+    "shipsIn": "48-72 Hrs",
+    "serviceablePartners": [
+        "SK"
+    ],
+    "b2bPrice": 50,
+    "discount": 16.67,
+    "isMasterForLinkedLPDeal": false,
+    "linkedLPDealId": "",
+    "classification": "B2C",
+    "whIds": [
+        "WMF28"
+    ]
+}

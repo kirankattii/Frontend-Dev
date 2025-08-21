@@ -1,0 +1,345 @@
+{
+  "keywords": [
+    "Bikaji",
+    "Namkeen",
+    "PR98387",
+    "D9093128995",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 20g",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+    "Other Namkeen",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs",
+    "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G"
+  ],
+  "brand": [
+    "BR20652"
+  ],
+  "_brand": [
+    {
+      "_id": "BR20652",
+      "classification": "B2B",
+      "name": "Bikaji"
+    }
+  ],
+  "brandNew": [
+    "BR20652"
+  ],
+  "category": [
+    "C6211"
+  ],
+  "_category": [
+    {
+      "_id": "C6211",
+      "classification": "B2B",
+      "name": "Other Namkeen",
+      "maxB2BQuantity": 30,
+      "maxB2BPeriod": 1,
+      "maxB2CPeriod": null,
+      "maxB2CQuantity": null,
+      "attributes": [
+        {
+          "mandatory": false,
+          "name": "Weight",
+          "type": "Text",
+          "_id": "5f15a98e35dee51c568b7c8c",
+          "predefined": true
+        },
+        {
+          "mandatory": false,
+          "name": "Pack Size",
+          "type": "Text",
+          "_id": "5f16712d1e1a231acbc7015e",
+          "predefined": false
+        },
+        {
+          "mandatory": false,
+          "name": "Variant",
+          "type": "Text",
+          "_id": "5f16712d1e1a231acbc7015d",
+          "predefined": false
+        }
+      ]
+    }
+  ],
+  "categoryNew": [
+    "C6211"
+  ],
+  "b2bEnabled": true,
+  "status": "Publish",
+  "product": [
+    {
+      "invoice_seperately": false,
+      "fullDescription": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+      "shortDescription": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+      "dealer_price": 0,
+      "mrp": 5,
+      "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g",
+      "visibilityByWh": [],
+      "delivery_chalan": false,
+      "brand": [
+        "BR20652"
+      ],
+      "category": [
+        "C6211"
+      ],
+      "highlights": [
+        "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g"
+      ],
+      "images": [],
+      "originCountry": "India",
+      "quantity": 1,
+      "id": "PR98387",
+      "spMargin": 100,
+      "isDefaultHSN": true
+    }
+  ],
+  "showPrdAtInvoice": false,
+  "groupedDeals": {
+    "category": "C6211",
+    "csa": "Weight",
+    "deals": [
+      "D9093128995",
+      "D0379923817"
+    ],
+    "_deals": [
+      {
+        "_id": "D9093128995",
+        "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G",
+        "category": [
+          "C6211"
+        ]
+      },
+      {
+        "_id": "D0379923817",
+        "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs, 18g (MD) (IA)",
+        "category": [
+          "C6211"
+        ]
+      }
+    ]
+  },
+  "memberPrice": null,
+  "sourcingPartner": "MPS0",
+  "highlights": [],
+  "specialDeal": {},
+  "overrideMinQty": false,
+  "pickStkFrmDefaultwhId": false,
+  "allowSchemesforSellers": true,
+  "maxB2CPeriodType": "Days",
+  "maxB2BPeriodType": "Days",
+  "is_active": true,
+  "tierData": [],
+  "isExclusiveType": false,
+  "exclusivetype": [],
+  "_sourcingPartner": {
+    "_id": "MPS0",
+    "name": "StoreKing"
+  },
+  "delivery_chalan": false,
+  "name": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G",
+  "description": "",
+  "shortDescription": "",
+  "images": [
+    "08129221354428491845"
+  ],
+  "printName": "Bikaji (Rs.5) Funkeen Corn Puff - Cheese N Herbs 18 G",
+  "visibilityByWh": [
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF28"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF68"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF34"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF20"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF67"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF65"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF44"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF61"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF41"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF35"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF36"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF40"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF60"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF59"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF38"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF55"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF39"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF63"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF66"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF53"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF52"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF56"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF54"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF29"
+    },
+    {
+      "name": "",
+      "isChecked": false,
+      "liquidateStock": false,
+      "kingDiscount": false,
+      "whId": "WMF43"
+    }
+  ],
+  "_tempHighlights": [],
+  "_tempShortDescription": "",
+  "b2bPrice": 4.83,
+  "discount": 96.6,
+  "shipsIn": "48-72 Hrs",
+  "serviceablePartners": [],
+  "displayDealType": "REGULAR",
+  "cscPrice": 5,
+  "cscDiscount": 0,
+  "gpayPrice": 5,
+  "gpayDiscount": 0,
+  "agentDiscount": 0,
+  "agentPrice": 5,
+  "b2cPriceNew": 5,
+  "b2cDiscountNew": null,
+  "recomendedDeals": [],
+  "classification": "B2C",
+  "whIds": [
+    "WMF28"
+  ],
+  "sellInLooseQty": false,
+  "isMasterForLinkedLPDeal": false,
+  "allowedUnitTypes": []
+}

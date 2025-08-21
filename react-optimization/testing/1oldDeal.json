@@ -1,0 +1,1075 @@
+{
+    "_id": "D9997511028",
+    "b2bDiscount": 82,
+    "ensureUniqueProducts": "4d7e73c485a70e750a615677ec675a2a",
+    "active": true,
+    "invoice_seperately": false,
+    "classification": "B2C",
+    "stickyOrder": false,
+    "maxB2BPeriod": 1,
+    "maxB2BQty": 120,
+    "shipsIn": "48-72 Hrs",
+    "b2bPrice": 180.4,
+    "description": "24 Mantra Organic Black Pepper Seed, 100g",
+    "b2bEnabled": true,
+    "status": "Publish",
+    "name": "24 Mantra Organic Black Pepper Seed, 100g",
+    "__v": 255,
+    "display": true,
+    "acceptOrder": false,
+    "productMrpChanged": false,
+    "discount": 18,
+    "memberPrice": null,
+    "perOrderLimit": 60,
+    "overrideMinQty": false,
+    "shortDescription": "24 Mantra Organic Black Pepper Seed, 100g",
+    "perdayB2BQty": 60,
+    "url": "24-mantra-organic-black-pepper-seed-100g",
+    "combinedDealDescription": "",
+    "soldQuantity": 12,
+    "kingsaleEnabled": false,
+    "cscDiscount": 0,
+    "cscPrice": 220,
+    "soldQuantitySync": "2025-08-11T21:30:26.447Z",
+    "agentDiscount": 12.6,
+    "agentPrice": 192.28,
+    "gpayDiscount": 13,
+    "gpayPrice": 191.4,
+    "isSlabBasedPricing": false,
+    "soldInfo": {
+        "WMF29": {
+            "lastPublished": "2022-02-19T06:48:54.000Z",
+            "lastOrderedOn": "2022-02-19T10:35:37.000Z",
+            "quantity": 36
+        },
+        "WMF28": {
+            "quantity": 12,
+            "lastOrderedOn": "2025-08-09T11:19:11.000Z",
+            "lastPublished": "2025-08-09T07:53:17.000Z"
+        }
+    },
+    "isBackendBillingEnabled": true,
+    "HSNNumber": "09041130",
+    "displayDealType": "REGULAR",
+    "b2cDiscountNew": 0,
+    "b2cPriceNew": 220,
+    "isReturnAllowed": true,
+    "linkedLPDealId": "",
+    "modifiedBy": "67b585e8c8aecf1005d923ec",
+    "returnDays": 500,
+    "isExclusiveType": false,
+    "isMasterForLinkedLPDeal": false,
+    "pickStkFrmDefaultwhId": false,
+    "printName": "24 Mantra Organic Black Pepper Seed, 100g",
+    "showPrdAtInvoice": false,
+    "isDefaultDisplaySellerDeal": false,
+    "serviceablePartners": [],
+    "kcRuleIds": [],
+    "isNegativeVC": false,
+    "isPositiveVC": false,
+    "isForecastDeal": false,
+    "KQAPickFromDeal": false,
+    "isSfDeal": false,
+    "hasSfStock": true,
+    "sfConfig": {
+        "isEnable": false
+    },
+    "visibilityByWh": [
+        {
+            "name": "Bengaluru Warehouse - WMF28",
+            "whId": "WMF28",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Publish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse - WMF68",
+            "whId": "WMF68",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse Unit 2 - WMF34",
+            "whId": "WMF34",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse - WMF20",
+            "whId": "WMF20",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad Warehouse - WMF67",
+            "whId": "WMF67",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse (New BPCL)-WMF65",
+            "whId": "WMF65",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse (Grocery)-WMF44",
+            "whId": "WMF44",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad Warehouse (BPCL)-WMF61",
+            "whId": "WMF61",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse (BPCL)-WMF41",
+            "whId": "WMF41",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse (Electronics)-WMF35",
+            "whId": "WMF35",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse (Grocery)-WMF36",
+            "whId": "WMF36",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse (Brand SF)-WMF40",
+            "whId": "WMF40",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse (BPCL)-WMF60",
+            "whId": "WMF60",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad Warehouse (Gpay)-WMF59",
+            "whId": "WMF59",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad  Warehouse (Grocery)-WMF38",
+            "whId": "WMF38",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse (Swiggy)-WMF55",
+            "whId": "WMF55",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse (Grocery)-WMF39",
+            "whId": "WMF39",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "WMF63 - Bengaluru Warehouse (New BPCL)",
+            "whId": "WMF63",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Indore Warehouse - WMF66",
+            "whId": "WMF66",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bangalore Warehouse - WMF53",
+            "whId": "WMF53",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bhiwandi Warehouse - WMF52",
+            "whId": "WMF52",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Bengaluru Warehouse (Swiggy)-WMF56",
+            "whId": "WMF56",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad Warehouse (Swiggy)-WMF54",
+            "whId": "WMF54",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad Warehouse - WMF29",
+            "whId": "WMF29",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        },
+        {
+            "name": "Hyderabad Warehouse (Ola)-WMF43",
+            "whId": "WMF43",
+            "visibility": "Auto",
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "visibleByMinQty": false,
+            "status": "Unpublish",
+            "forecastStatus": "Unpublish"
+        }
+    ],
+    "is_active": true,
+    "inventory": [
+        {
+            "whId": "WMF28",
+            "availableStock": 38
+        },
+        {
+            "whId": "SEL1798",
+            "availableStock": 50
+        }
+    ],
+    "isValueBrand": false,
+    "priceSlabs": [],
+    "classClassifications": [
+        {
+            "whId": "WMF28",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e74",
+            "isDefault": false
+        },
+        {
+            "_id": "619b7780751fb169c7f13369",
+            "name": "Ace",
+            "id": "CLC3",
+            "whId": "",
+            "isDefault": true
+        },
+        {
+            "whId": "WMF29",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e73",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF20",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e72",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF36",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e71",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF21",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e70",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF1",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e6f",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF14",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e6e",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF19",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e6d",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF22",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e6c",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF0",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e6b",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF30",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e6a",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF27",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e69",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF24",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e68",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF23",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e67",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF17",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e66",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF13",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e65",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF12",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e64",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF9",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e63",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF8",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e62",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF7",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e61",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF6",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e60",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF5",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e5f",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF4",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e5e",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF3",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e5d",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF35",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e5c",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF58",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e5b",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF59",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e5a",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF60",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e59",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF57",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e58",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF55",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e57",
+            "isDefault": false
+        },
+        {
+            "whId": "WMF34",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e56",
+            "isDefault": false
+        },
+        {
+            "whId": " WMF41",
+            "id": "CLC3",
+            "name": "Ace",
+            "_id": "632be7b82b16bd26bb733e55",
+            "isDefault": false
+        }
+    ],
+    "classGroup": {
+        "name": "FMCG",
+        "id": "CLG1"
+    },
+    "discountMargin": 18,
+    "recomendedDeals": [],
+    "whatsYourPriceConfig": {
+        "digits": 0,
+        "amount": 0,
+        "contestFee": 0,
+        "orderCancellationTat": 2400,
+        "quantity": 1
+    },
+    "isKCStoreEnabled": false,
+    "isGroupBuyingEnabled": false,
+    "iswhatsYourPriceEnabled": false,
+    "isTaxUpdated": true,
+    "isSkWarehouse": true,
+    "whIds": [
+        "WMF28"
+    ],
+    "exclusivetype": [],
+    "specialDeal": {
+        "desktopBannerImages": [],
+        "mobileBannerImages": [],
+        "highlights": []
+    },
+    "lastUpdated": "2025-08-12T05:37:03.048Z",
+    "createdAt": "2019-08-13T11:35:57.528Z",
+    "highlights": [
+        "24 Mantra Organic Black Pepper Seed, 100g"
+    ],
+    "deleted": false,
+    "brandNew": [
+        "BR20213"
+    ],
+    "brand": [
+        "BR20213"
+    ],
+    "categoryNew": [
+        "C6693"
+    ],
+    "category": [
+        "C6693"
+    ],
+    "images": [
+        "04454613645529422269",
+        "06678247569774642577"
+    ],
+    "additionalSchemeDiscount": [],
+    "allowReserveOrder": false,
+    "product": [
+        {
+            "defaultWhId": "",
+            "active": true,
+            "invoice_seperately": false,
+            "mrp": 220,
+            "name": "24 Mantra Organic Black Pepper Seed, 100g",
+            "quantity": 1,
+            "id": "PR34377",
+            "_id": "689ad2fe25ef67629a5710ad",
+            "preorderWhList": [],
+            "classClassifications": [
+                {
+                    "whId": "WMF28",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e74",
+                    "isDefault": false
+                },
+                {
+                    "whId": "",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "619b7780751fb169c7f13369",
+                    "isDefault": true
+                },
+                {
+                    "whId": "WMF29",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e73",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF20",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e72",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF36",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e71",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF21",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e70",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF1",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e6f",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF14",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e6e",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF19",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e6d",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF22",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e6c",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF0",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e6b",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF30",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e6a",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF27",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e69",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF24",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e68",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF23",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e67",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF17",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e66",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF13",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e65",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF12",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e64",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF9",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e63",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF8",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e62",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF7",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e61",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF6",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e60",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF5",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e5f",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF4",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e5e",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF3",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e5d",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF35",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e5c",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF58",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e5b",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF59",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e5a",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF60",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e59",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF57",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e58",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF55",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e57",
+                    "isDefault": false
+                },
+                {
+                    "whId": "WMF34",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e56",
+                    "isDefault": false
+                },
+                {
+                    "whId": " WMF41",
+                    "id": "CLC3",
+                    "name": "Ace",
+                    "_id": "632be7b82b16bd26bb733e55",
+                    "isDefault": false
+                }
+            ],
+            "classGroup": {
+                "id": "CLG1",
+                "name": "FMCG"
+            },
+            "isSkWarehouse": true,
+            "isDefaultHSN": true,
+            "spMargin": 100,
+            "csa": [
+                {
+                    "value": "100g",
+                    "name": "Weight",
+                    "_id": "618a5d68bdf37c2570509f21"
+                }
+            ],
+            "tax": 0,
+            "shelfLife": 0,
+            "originCountry": "India",
+            "brand": [
+                "BR20213"
+            ],
+            "category": [
+                "C6693"
+            ],
+            "dealer_price": 0,
+            "description": "<p>24 Mantra Organic Black Pepper Seed, 100g</p>\n<p>Case Qty: 30pcs</p>\n<p>Organic Black pepper is extensively used in traditional systems of medicine like Ayurvedic and Unani systems of medicine. We cannot find a restaurant table without a pepper holder! 24 Mantra Organic Black Pepper is unadulterated has excellent flavor and aroma</p>",
+            "shortDescription": "24 Mantra Organic Black Pepper Seed, 100g",
+            "images": [
+                "07089439129436864234",
+                "03738489711962168629",
+                "04162618505927477491"
+            ]
+        }
+    ],
+    "isContentValidated": true,
+    "barcodes": [
+        "543782910038475"
+    ],
+    "sourcingPartner": "MPS0",
+    "keywords": [
+        "24",
+        "Pepper",
+        "Seed",
+        "100g",
+        "24 Mantra",
+        "PR34377",
+        "D9997511028",
+        "24 Mantra Organic Black Pepper Seed, 100g"
+    ],
+    "maxB2CPeriodType": "Days",
+    "maxB2BPeriodType": "Days",
+    "isOwnedByThirdparty": false,
+    "dealCreatorType": "SK",
+    "subscribedSellersIds": [
+        "SEL34",
+        "SEL36",
+        "SEL33",
+        "SEL60",
+        "SEL61",
+        "SEL67",
+        "SEL72",
+        "SEL64",
+        "SEL70",
+        "SEL26",
+        "SEL75",
+        "SEL88",
+        "SEL85",
+        "SEL90",
+        "SEL105",
+        "SEL89",
+        "SEL82",
+        "SEL83",
+        "SEL87",
+        "SEL103",
+        "SEL102",
+        "SEL107",
+        "SEL106",
+        "SEL109",
+        "SEL110",
+        "SEL104",
+        "SEL84",
+        "SEL100",
+        "SEL113",
+        "SEL80",
+        "SEL79",
+        "SEL115",
+        "SEL116",
+        "SEL118",
+        "SEL124",
+        "SEL120",
+        "SEL122",
+        "SEL1851",
+        "SEL1798"
+    ],
+    "unsubscribedSellersIds": [],
+    "unsubscribedSellers": [],
+    "reviewHistory": [],
+    "reviewStatus": "APPROVED",
+    "barcodeApplicable": true,
+    "allowSchemesforSellers": true,
+    "dontAllowSubscription": false,
+    "minimumSellingPrice": 1,
+    "transferPrice": {
+        "priceType": "Rs"
+    },
+    "kingsaleWarehouseWise": [],
+    "tierData": [],
+    "mrp": 220,
+    "incrementQuantity": 1,
+    "minimumQuantity": 1,
+    "manualUnpublish": false,
+    "dealMasterAssortment": true,
+    "isRealTime": true,
+    "isGrouped": false,
+    "isSpecialDeal": false,
+    "delivery_chalan": false,
+    "allowedUnitTypes": [],
+    "sellInLooseQty": false,
+    "dealType": "Normal",
+    "linkedLPMasterDealIds": [],
+    "groupedDeals": {
+        "_id": "618a37314375fd379456332e",
+        "category": "C6693",
+        "csa": "Weight",
+        "__v": 0,
+        "lastUpdated": "2021-11-09T08:54:09.036Z",
+        "createdAt": "2021-11-09T08:54:09.035Z",
+        "deleted": false,
+        "deals": [
+            "D0274274148",
+            "D8424763113"
+        ],
+        "dealcsa": [
+            {
+                "_id": "D0274274148",
+                "csaValue": "500g"
+            },
+            {
+                "_id": "D8424763113",
+                "csaValue": "50g"
+            },
+            {
+                "_id": "D9997511028",
+                "csaValue": "100g"
+            }
+        ],
+        "_deals": [
+            {
+                "_id": "D0274274148",
+                "name": "24 Mantra Organic Black Pepper Whole, 500g",
+                "category": [
+                    "C6693"
+                ]
+            },
+            {
+                "_id": "D8424763113",
+                "name": "24 Mantra Organic Whole Spice - Black Pepper, 50g",
+                "category": [
+                    "C6693"
+                ]
+            }
+        ]
+    },
+    "_category": [
+        {
+            "_id": "C6693",
+            "classification": "B2C and B2B",
+            "name": "Pepper",
+            "parent": "C6425",
+            "attributes": [
+                {
+                    "mandatory": false,
+                    "name": "Variant",
+                    "type": "Text",
+                    "_id": "5cda674e50bb4b154b210949",
+                    "predefined": false
+                },
+                {
+                    "mandatory": false,
+                    "name": "Weight",
+                    "type": "Text",
+                    "_id": "5cda674e50bb4b154b210948",
+                    "predefined": true
+                },
+                {
+                    "mandatory": false,
+                    "name": "Pack Size",
+                    "type": "Text",
+                    "_id": "5cda674e50bb4b154b210947",
+                    "predefined": false
+                }
+            ]
+        }
+    ],
+    "_brand": [
+        {
+            "_id": "BR20213",
+            "classification": "B2B",
+            "name": "24 Mantra",
+            "isValueBrand": false
+        }
+    ],
+    "_sourcingPartner": {
+        "_id": "MPS0",
+        "name": "StoreKing"
+    }
+}

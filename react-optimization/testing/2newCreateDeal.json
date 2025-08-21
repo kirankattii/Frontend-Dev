@@ -1,0 +1,351 @@
+// {
+//   "keywords": [],
+//   "brand": ["BR11183"],
+//   "_brand": [{ "_id": "BR11183", "classification": "B2B", "name": "Nandini" }],
+//   "brandNew": ["BR11183"],
+//   "category": ["C6506"],
+//   "_category": [
+//     {
+//       "_id": "C6506",
+//       "classification": "B2B",
+//       "name": "Buttermilk & Lassi",
+//       "maxB2BQuantity": 30,
+//       "maxB2BPeriod": 1,
+//       "maxB2CPeriod": null,
+//       "maxB2CQuantity": null,
+//       "attributes": [
+//         {
+//           "mandatory": false,
+//           "name": "Weight",
+//           "type": "Text",
+//           "_id": "645a100b80fcbd6574cba2e0",
+//           "predefined": true
+//         },
+//         {
+//           "mandatory": false,
+//           "name": "Variant",
+//           "type": "Text",
+//           "_id": "645a100b80fcbd6574cba2df",
+//           "predefined": false
+//         }
+//       ]
+//     }
+//   ],
+//   "categoryNew": ["C6506"],
+//   "b2bEnabled": true,
+//   "status": "Draft",
+//   "product": [
+//     {
+//       "invoice_seperately": false,
+//       "fullDescription": "NANDINI123",
+//       "shortDescription": "NANDINI123",
+//       "dealer_price": 0,
+//       "mrp": 20,
+//       "name": "NANDINI123",
+//       "visibilityByWh": [],
+//       "delivery_chalan": false,
+//       "brand": ["BR11183"],
+//       "category": ["C6506"],
+//       "highlights": ["NANDINI123"],
+//       "images": [],
+//       "originCountry": "India",
+//       "quantity": 1,
+//       "id": "PR99406",
+//       "spMargin": 100,
+//       "isDefaultHSN": true
+//     }
+//   ],
+//   "showPrdAtInvoice": false,
+//   "groupedDeals": {
+//     "_id": "",
+//     "category": "",
+//     "csa": "",
+//     "deals": [],
+//     "_deals": []
+//   },
+//   "memberPrice": null,
+//   "sourcingPartner": "MPS0",
+//   "highlights": [],
+//   "specialDeal": {},
+//   "overrideMinQty": false,
+//   "pickStkFrmDefaultwhId": false,
+//   "allowSchemesforSellers": true,
+//   "maxB2CPeriodType": "Days",
+//   "maxB2BPeriodType": "Days",
+//   "is_active": true,
+//   "tierData": [{ "min": 20, "max": 40, "name": "Tier 1" }],
+//   "isExclusiveType": false,
+//   "exclusivetype": [],
+//   "_sourcingPartner": { "_id": "MPS0", "name": "StoreKing" },
+//   "delivery_chalan": false,
+//   "name": "NANDINI123 testing",
+//   "description": "",
+//   "shortDescription": "",
+//   "images": [],
+//   "printName": "NANDINI123 testing",
+//   "visibilityByWh": [
+//     {
+//       "name": "Bengaluru Warehouse - WMF28",
+//       "whId": "WMF28",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse - WMF68",
+//       "whId": "WMF68",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse Unit 2 - WMF34",
+//       "whId": "WMF34",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse - WMF20",
+//       "whId": "WMF20",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad Warehouse - WMF67",
+//       "whId": "WMF67",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse (New BPCL)-WMF65",
+//       "whId": "WMF65",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse (Grocery)-WMF44",
+//       "whId": "WMF44",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad Warehouse (BPCL)-WMF61",
+//       "whId": "WMF61",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse (BPCL)-WMF41",
+//       "whId": "WMF41",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse (Electronics)-WMF35",
+//       "whId": "WMF35",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse (Grocery)-WMF36",
+//       "whId": "WMF36",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse (Brand SF)-WMF40",
+//       "whId": "WMF40",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse (BPCL)-WMF60",
+//       "whId": "WMF60",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad Warehouse (Gpay)-WMF59",
+//       "whId": "WMF59",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad  Warehouse (Grocery)-WMF38",
+//       "whId": "WMF38",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse (Swiggy)-WMF55",
+//       "whId": "WMF55",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse (Grocery)-WMF39",
+//       "whId": "WMF39",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "WMF63 - Bengaluru Warehouse (New BPCL)",
+//       "whId": "WMF63",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Indore Warehouse - WMF66",
+//       "whId": "WMF66",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bangalore Warehouse - WMF53",
+//       "whId": "WMF53",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bhiwandi Warehouse - WMF52",
+//       "whId": "WMF52",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Bengaluru Warehouse (Swiggy)-WMF56",
+//       "whId": "WMF56",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad Warehouse (Swiggy)-WMF54",
+//       "whId": "WMF54",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad Warehouse - WMF29",
+//       "whId": "WMF29",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     },
+//     {
+//       "name": "Hyderabad Warehouse (Ola)-WMF43",
+//       "whId": "WMF43",
+//       "isChecked": false,
+//       "kingDiscount": false,
+//       "liquidateStock": false
+//     }
+//   ],
+//   "_tempHighlights": [],
+//   "_tempShortDescription": "",
+//   "b2bPrice": 18,
+//   "discount": 10,
+//   "shipsIn": "24-48 Hrs",
+//   "serviceablePartners": ["SK"],
+//   "displayDealType": "",
+//   "agentDiscount": 10,
+//   "agentPrice": 18,
+//   "b2cPriceNew": 0,
+//   "b2cDiscountNew": null,
+//   "recomendedDeals": [],
+//   "classification": "B2C",
+//   "whIds": ["WMF28"],
+//   "sellInLooseQty": false,
+//   "isMasterForLinkedLPDeal": false,
+//   "allowedUnitTypes": []
+// }
+
+{
+  "keywords": [],
+  "brand": ["BR21765"],
+  "_brand": [{ "_id": "BR21765", "name": "1to3" }],
+  "brandNew": ["BR21765"],
+  "category": ["C6776"],
+  "_category": [{ "_id": "C6776", "name": "Mutton Masala", "attributes": [] }],
+  "categoryNew": ["C6776"],
+  "b2bEnabled": true,
+  "status": "Draft",
+  "product": [
+    {
+      "invoice_seperately": false,
+      "fullDescription": "<p>1to3 (Rs.10) Mutton Masala, 18g</p>\n<p>Mutton Masala is made by using Indian spice which is used to cook the mutton gravy. Mutton Curry is a tangy and very popular party dish and is a slow cooker recipe.&nbsp;</p>",
+      "shortDescription": "1to3 (Rs.10) Mutton Masala, 18g",
+      "dealer_price": 0,
+      "mrp": 10,
+      "name": "1to3 (Rs.10) Mutton Masala Powder Pouch, 18g",
+      "visibilityByWh": [],
+      "delivery_chalan": false,
+      "brand": ["BR21765"],
+      "category": ["C6776"],
+      "highlights": ["1to3 (Rs.10) Mutton Masala Powder Pouch, 18g"],
+      "images": ["00015811131874003368"],
+      "originCountry": "India",
+      "quantity": 1,
+      "id": "PR75474",
+      "spMargin": 100,
+      "isDefaultHSN": true
+    }
+  ],
+  "showPrdAtInvoice": false,
+  "groupedDeals": { "category": "", "csa": "", "deals": [], "_deals": [] },
+  "memberPrice": null,
+  "sourcingPartner": "MPS0",
+  "highlights": [],
+  "specialDeal": {},
+  "overrideMinQty": false,
+  "pickStkFrmDefaultwhId": false,
+  "allowSchemesforSellers": true,
+  "maxB2CPeriodType": "Days",
+  "maxB2BPeriodType": "Days",
+  "is_active": true,
+  "tierData": [],
+  "isExclusiveType": false,
+  "exclusivetype": [],
+  "_sourcingPartner": { "_id": "MPS0", "name": "StoreKing" },
+  "delivery_chalan": false,
+  "name": "1to3 (Rs.10) Mutton Masala Powder Pouch, 19g",
+  "description": "",
+  "shortDescription": "",
+  "images": [],
+  "printName": "1to3 (Rs.10) Mutton Masala Powder Pouch, 19g",
+  "visibilityByWh": [],
+  "_tempHighlights": [],
+  "_tempShortDescription": "",
+  "b2bPrice": 8,
+  "discount": 20,
+  "shipsIn": "24-48 Hrs",
+  "serviceablePartners": ["SK"],
+  "displayDealType": "",
+  "b2cPriceNew": null,
+  "b2cDiscountNew": null,
+  "recomendedDeals": [],
+  "classification": "B2C",
+  "whIds": ["WMF28"],
+  "sellInLooseQty": false,
+  "isMasterForLinkedLPDeal": false,
+  "allowedUnitTypes": []
+}

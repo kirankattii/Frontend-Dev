@@ -1,0 +1,379 @@
+{
+    "keywords": [
+        "24",
+        "Pepper",
+        "Seed",
+        "100g",
+        "24 Mantra",
+        "PR34377",
+        "D9997511028",
+        "24 Mantra Organic Black Pepper Seed, 100g"
+    ],
+    "brand": [
+        "BR20213"
+    ],
+    "_brand": [
+        {
+            "_id": "BR20213",
+            "classification": "B2B",
+            "name": "24 Mantra"
+        }
+    ],
+    "brandNew": [
+        "BR20213"
+    ],
+    "category": [
+        "C6693"
+    ],
+    "_category": [
+        {
+            "_id": "C6693",
+            "classification": "B2C and B2B",
+            "name": "Pepper",
+            "maxB2BQuantity": 30,
+            "maxB2BPeriod": 1,
+            "maxB2CPeriod": 11,
+            "maxB2CQuantity": 30,
+            "attributes": [
+                {
+                    "mandatory": false,
+                    "name": "Variant",
+                    "type": "Text",
+                    "_id": "5cda674e50bb4b154b210949",
+                    "predefined": false
+                },
+                {
+                    "mandatory": false,
+                    "name": "Weight",
+                    "type": "Text",
+                    "_id": "5cda674e50bb4b154b210948",
+                    "predefined": true
+                },
+                {
+                    "mandatory": false,
+                    "name": "Pack Size",
+                    "type": "Text",
+                    "_id": "5cda674e50bb4b154b210947",
+                    "predefined": false
+                }
+            ]
+        }
+    ],
+    "categoryNew": [
+        "C6693"
+    ],
+    "b2bEnabled": true,
+    "status": "Publish",
+    "product": [
+        {
+            "invoice_seperately": false,
+            "fullDescription": "24 Mantra Organic Black Pepper Seed, 100g",
+            "shortDescription": "24 Mantra Organic Black Pepper Seed, 100g",
+            "dealer_price": 0,
+            "mrp": 220,
+            "name": "24 Mantra Organic Black Pepper Seed, 100g",
+            "visibilityByWh": [],
+            "delivery_chalan": false,
+            "brand": [
+                "BR20213"
+            ],
+            "category": [
+                "C6693"
+            ],
+            "highlights": [
+                "24 Mantra Organic Black Pepper Seed, 100g"
+            ],
+            "images": [],
+            "originCountry": "India",
+            "quantity": 1,
+            "id": "PR34377",
+            "spMargin": 100,
+            "isDefaultHSN": true
+        }
+    ],
+    "showPrdAtInvoice": false,
+    "groupedDeals": {
+        "_id": "618a37314375fd379456332e",
+        "category": "C6693",
+        "csa": "Weight",
+        "deals": [
+            "D9997511028",
+            "D0274274148",
+            "D8424763113"
+        ],
+        "dealcsa": [
+            {
+                "_id": "D0274274148",
+                "csaValue": "500g"
+            },
+            {
+                "_id": "D8424763113",
+                "csaValue": "50g"
+            },
+            {
+                "_id": "D9997511028",
+                "csaValue": "100g"
+            }
+        ],
+        "_deals": [
+            {
+                "_id": "D9997511028",
+                "name": "24 Mantra Organic Black Pepper Seed, 100g",
+                "category": [
+                    "C6693"
+                ]
+            },
+            {
+                "_id": "D0274274148",
+                "name": "24 Mantra Organic Black Pepper Whole, 500g",
+                "category": [
+                    "C6693"
+                ]
+            },
+            {
+                "_id": "D8424763113",
+                "name": "24 Mantra Organic Whole Spice - Black Pepper, 50g",
+                "category": [
+                    "C6693"
+                ]
+            }
+        ]
+    },
+    "memberPrice": null,
+    "sourcingPartner": "MPS0",
+    "highlights": [
+        "24 Mantra Organic Black Pepper Seed, 100g"
+    ],
+    "specialDeal": {},
+    "overrideMinQty": false,
+    "pickStkFrmDefaultwhId": false,
+    "allowSchemesforSellers": true,
+    "maxB2CPeriodType": "Days",
+    "maxB2BPeriodType": "Days",
+    "is_active": true,
+    "tierData": [],
+    "isExclusiveType": false,
+    "exclusivetype": [],
+    "_sourcingPartner": {
+        "_id": "MPS0",
+        "name": "StoreKing"
+    },
+    "delivery_chalan": false,
+    "name": "24 Mantra Organic Black Pepper Seed, 100g",
+    "description": "24 Mantra Organic Black Pepper Seed, 100g",
+    "shortDescription": "24 Mantra Organic Black Pepper Seed, 100g",
+    "images": [
+        "04454613645529422269",
+        "06678247569774642577"
+    ],
+    "printName": "24 Mantra Organic Black Pepper Seed, 100g",
+    "visibilityByWh": [
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF28"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF68"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF34"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF20"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF67"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF65"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF44"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF61"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF41"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF35"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF36"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF40"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF60"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF59"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF38"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF55"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF39"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF63"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF66"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF53"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF52"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF56"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF54"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF29"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "WMF43"
+        },
+        {
+            "name": "",
+            "isChecked": false,
+            "liquidateStock": false,
+            "kingDiscount": false,
+            "whId": "SEL1798"
+        }
+    ],
+    "_tempHighlights": [
+        "24 Mantra Organic Black Pepper Seed, 100g"
+    ],
+    "_tempShortDescription": "24 Mantra Organic Black Pepper Seed, 100g",
+    "b2bPrice": 180.4,
+    "discount": 82,
+    "shipsIn": "48-72 Hrs",
+    "serviceablePartners": [],
+    "displayDealType": "REGULAR",
+    "cscPrice": 220,
+    "cscDiscount": 0,
+    "gpayPrice": 191.4,
+    "gpayDiscount": 13,
+    "agentDiscount": 12.6,
+    "agentPrice": 192.28,
+    "b2cPriceNew": 220,
+    "b2cDiscountNew": null,
+    "recomendedDeals": [],
+    "classification": "B2C",
+    "whIds": [
+        "WMF28"
+    ],
+    "sellInLooseQty": false,
+    "isMasterForLinkedLPDeal": false,
+    "allowedUnitTypes": []
+}
